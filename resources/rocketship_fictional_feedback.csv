@@ -1,0 +1,101 @@
+feedback_id,category,persona,feedback_text,fictional
+RS-001,Feature request,PM,Could we add a dependency map between requirements? We often discover blockers after a sprint starts.,TRUE
+RS-002,Feature request,Engineering lead,Please let us pin a decision owner and review date to each decision.,TRUE
+RS-003,Feature request,Designer,A Figma link preview inside a requirement would save our team several context switches.,TRUE
+RS-004,Feature request,PM,"I want reusable templates that prompt for edge cases, analytics, and rollout plans.",TRUE
+RS-005,Feature request,Developer,Can we see who changed acceptance criteria and when?,TRUE
+RS-006,Feature request,QA engineer,It would help to turn acceptance criteria into a checklist for testing.,TRUE
+RS-007,Feature request,Product ops,Please add bulk editing for tags and owners.,TRUE
+RS-008,Feature request,PM,A roadmap view grouped by outcome rather than release date would help explain priorities.,TRUE
+RS-009,Feature request,Eng manager,Could we get Slack alerts only for changes to decisions I follow?,TRUE
+RS-010,Feature request,Analyst,Let us attach success metrics and show the latest measurement beside the hypothesis.,TRUE
+RS-011,Feature request,Tech lead,I need to link a requirement to an API spec and flag when that spec changes.,TRUE
+RS-012,Feature request,PM,A sign-off step for regulated requirements would make approvals easier to audit.,TRUE
+RS-013,Feature request,Designer,Please support inline image annotations for mockup reviews.,TRUE
+RS-014,Feature request,Developer,An offline draft mode would help when reviewing specs during travel.,TRUE
+RS-015,Feature request,PM,Could we compare two versions of a requirement side by side?,TRUE
+RS-016,Feature request,QA lead,Saved filters for requirements missing testable criteria would catch gaps.,TRUE
+RS-017,Feature request,PM,We need to export a project decision log as a clean PDF or CSV.,TRUE
+RS-018,Feature request,Eng lead,Please add rollout and rollback fields; those details get buried in comments.,TRUE
+RS-019,Feature request,Product ops,A dashboard of stale requirements and pending reviews would help weekly check-ins.,TRUE
+RS-020,Feature request,Developer,Could RocketShip link requirements to GitHub pull requests and show implementation status?,TRUE
+RS-021,Feature request,PM,I would like custom fields per workspace for different team needs.,TRUE
+RS-022,Feature request,Security engineer,Add project-level permissions for external reviewers.,TRUE
+RS-023,Feature request,PM,A place to record rejected alternatives would preserve useful context.,TRUE
+RS-024,Feature request,QA engineer,Please let us flag ambiguous acceptance criteria and route them to the author.,TRUE
+RS-025,Feature request,Eng manager,"A weekly digest of decisions made, changed, and still open would beat constant alerts.",TRUE
+RS-026,Feature request,PM,Let me duplicate a feature with its checklist and links for similar work.,TRUE
+RS-027,Feature request,Developer,Could requirements support code snippets with readable formatting?,TRUE
+RS-028,Feature request,PM,We need a lightweight intake form that non-product teams can submit.,TRUE
+RS-029,Feature request,Designer,Please add a simple way to embed prototypes without requiring public links.,TRUE
+RS-030,Feature request,Product ops,A team directory synced to workspace ownership would reduce manual setup.,TRUE
+RS-031,Feature request,QA lead,Let us attach test evidence to individual acceptance criteria.,TRUE
+RS-032,Feature request,PM,I want to schedule a decision for review without creating a separate task.,TRUE
+RS-033,Feature request,Eng lead,A dependency warning when two features edit the same API would be useful.,TRUE
+RS-034,Feature request,Analyst,Can we label assumptions separately from validated research?,TRUE
+RS-035,Feature request,PM,A read-only share link with an expiry date would make reviews easier.,TRUE
+RS-036,Feature request,Developer,Please add markdown import so we can migrate existing specs.,TRUE
+RS-037,Feature request,PM,Let users subscribe to a section instead of an entire project.,TRUE
+RS-038,Feature request,Eng manager,A small capacity note on roadmap items would help us avoid overcommitting.,TRUE
+RS-039,Feature request,Designer,Support multiple prototype links on one feature for responsive states.,TRUE
+RS-040,Feature request,Product manager,Could archived decisions remain searchable from the current feature page?,TRUE
+RS-041,Criticism,Developer,"The editor lags on long requirements, and typing falls behind.",TRUE
+RS-042,Criticism,PM,Search misses terms unless I remember the exact project filter.,TRUE
+RS-043,Criticism,Designer,The comment panel leaves too little room to compare feedback with the spec.,TRUE
+RS-044,Criticism,Eng lead,Notifications are too noisy; I muted RocketShip after a few days.,TRUE
+RS-045,Criticism,PM,It is hard to tell which acceptance criteria are current after a decision changes.,TRUE
+RS-046,Criticism,QA,"Exports lose headings and nested lists, so shared documents need cleanup.",TRUE
+RS-047,Criticism,PM,There are too many clicks to create a decision from an existing requirement.,TRUE
+RS-048,Criticism,Developer,Editing anything beyond a short note on mobile is frustrating.,TRUE
+RS-049,Criticism,Product ops,Permissions are confusing; I cannot quickly see who can edit a project.,TRUE
+RS-050,Criticism,Tech lead,The activity feed buries decisions among routine comments.,TRUE
+RS-051,Criticism,PM,A workspace with hundreds of features takes long enough to load that I switch to a spreadsheet.,TRUE
+RS-052,Criticism,Designer,Link previews sometimes show stale page titles.,TRUE
+RS-053,Criticism,Eng manager,The default templates feel generic and take time to customize.,TRUE
+RS-054,Criticism,Analyst,There is no clear distinction between target metrics and currently tracked metrics.,TRUE
+RS-055,Criticism,Developer,Keyboard shortcuts behave inconsistently across screens.,TRUE
+RS-056,Criticism,PM,Archived projects still appear in search results.,TRUE
+RS-057,Criticism,QA lead,"It is easy to leave a requirement without an owner, and the product does not flag it.",TRUE
+RS-058,Criticism,PM,The roadmap view gets cramped with many teams and milestones.,TRUE
+RS-059,Criticism,Security engineer,The audit trail does not explain why a permission changed.,TRUE
+RS-060,Criticism,PM,I cannot quickly see what changed since my last review.,TRUE
+RS-061,Criticism,Developer,Pasting tables from a browser often breaks the formatting.,TRUE
+RS-062,Criticism,Product ops,CSV import is brittle when columns are optional or headers differ slightly.,TRUE
+RS-063,Criticism,Eng lead,Decision owners do not get a useful reminder when a review date passes.,TRUE
+RS-064,Criticism,Designer,Comments look as prominent as the final approved decision.,TRUE
+RS-065,Criticism,PM,Onboarding explains buttons but not how to structure a project.,TRUE
+RS-066,Criticism,Developer,"The autosave indicator is subtle, so I am unsure whether my last change stuck.",TRUE
+RS-067,Criticism,PM,Cross-project reporting requires too much manual exporting.,TRUE
+RS-068,Criticism,QA,There is no obvious way to mark criteria blocked versus not tested.,TRUE
+RS-069,Criticism,Tech lead,"The product shifts between “spec,” “feature,” and “requirement” across screens.",TRUE
+RS-070,Criticism,PM,The browser tab title is generic when I have several projects open.,TRUE
+RS-071,Criticism,Eng manager,The permissions error does not say whether I need an owner or admin.,TRUE
+RS-072,Criticism,Analyst,Overview charts cannot be downloaded for a planning deck.,TRUE
+RS-073,Criticism,Developer,The editor sometimes reorders numbered lists when I move a paragraph.,TRUE
+RS-074,Criticism,PM,Review reminders ignore our working hours.,TRUE
+RS-075,Criticism,PM,Filtering the decision log by author and date together is cumbersome.,TRUE
+RS-076,Competitor comparison,PM,"Jira Product Discovery had flexible voting that we miss, though RocketShip keeps decisions with requirements.",TRUE
+RS-077,Competitor comparison,Developer,Notion feels more forgiving for page editing; RocketShip makes structured specs easier.,TRUE
+RS-078,Competitor comparison,PM,"Aha! has stronger roadmap visuals, while RocketShip preserves the reasoning behind choices.",TRUE
+RS-079,Competitor comparison,Eng lead,"Linear feels faster, but RocketShip gives decision history a proper home.",TRUE
+RS-080,Competitor comparison,Designer,Coda made custom review flows easier; RocketShip is more focused.,TRUE
+RS-081,Competitor comparison,PM,Productboard aggregates feedback better; RocketShip is simpler for writing requirements.,TRUE
+RS-082,Competitor comparison,Developer,"Confluence cross-linked arbitrary pages more easily, but our old setup was messy.",TRUE
+RS-083,Competitor comparison,Eng manager,Trello was quicker to scan; RocketShip captures decision context much better.,TRUE
+RS-084,Competitor comparison,PM,"Airtable views were more customizable, while RocketShip has better decision records.",TRUE
+RS-085,Competitor comparison,QA,TestRail is clearer for test execution; RocketShip is where criteria should start.,TRUE
+RS-086,Competitor comparison,PM,"Jira has more automation options, but RocketShip’s requirements are cleaner.",TRUE
+RS-087,Competitor comparison,Designer,Figma comments are more natural for visuals; RocketShip makes decisions easier to preserve.,TRUE
+RS-088,Competitor comparison,PM,"Google Docs was familiar, but RocketShip adds useful structure.",TRUE
+RS-089,Competitor comparison,Developer,GitHub issues fit coding work better; RocketShip captures product rationale upstream.,TRUE
+RS-090,Competitor comparison,Product ops,Aha! reporting is more mature for executives; RocketShip is easier to keep current.,TRUE
+RS-091,Competitor comparison,PM,"Notion wins for flexible internal docs, but RocketShip nudges us to record owners and decisions.",TRUE
+RS-092,Competitor comparison,Eng lead,Linear notifications are easier to tune; RocketShip has better context.,TRUE
+RS-093,Competitor comparison,PM,Productboard tags customer feedback better; RocketShip turns choices into documented specs.,TRUE
+RS-094,Competitor comparison,Developer,Confluence has more mature access controls in our setup; RocketShip is easier to navigate.,TRUE
+RS-095,Competitor comparison,PM,Trello made status obvious; I miss its simple board overview.,TRUE
+RS-096,Competitor comparison,Analyst,Airtable made custom reports easier; RocketShip’s built-in views are opinionated.,TRUE
+RS-097,Competitor comparison,QA,We still use TestRail for test cases; RocketShip needs a tighter handoff.,TRUE
+RS-098,Competitor comparison,Eng manager,"Jira Product Discovery was harder to learn, though its prioritization tools were stronger.",TRUE
+RS-099,Competitor comparison,Designer,Miro is better for workshops; RocketShip preserves the decisions that come out of them.,TRUE
+RS-100,Competitor comparison,PM,Google Docs comments are faster; RocketShip gives us better traceability.,TRUE
